@@ -1,36 +1,36 @@
 # Section 1: Filing Information
-[ ] Name of Reporting Entity
-[ ] New Company Reg No
-[ ] Old Company Reg No
-[ ] Origin of Company
-[ ] Status of Company
-[ ] Type of Company
-[ ] Basis of Accounting Standards
-[ ] Presentation Currency
-[ ] Audit Status
-[ ] FYE
-[ ] Prior FYE
-[ ] Listed?
-[ ] Nature of Financial Statements
-[ ] Adopted MFRS?
+1. [ ] Name of Reporting Entity
+2. [ ] New Company Reg No
+3. [ ] Old Company Reg No
+4. [ ] Origin of Company
+5. [ ] Status of Company
+6. [ ] Type of Company
+7. [ ] Basis of Accounting Standards
+8. [ ] Presentation Currency
+9. [ ] Audit Status
+10. [ ] FYE
+11. [ ] Prior FYE
+12. [ ] Listed?
+13. [ ] Nature of Financial Statements
+14. [ ] Adopted MFRS?
 
 # Section 2: Scope of Filing
-[ ] Date of Financial Statements
-[ ] Presentation Currency
-[ ] Basis of Preparation
-[ ] Audit Status
-[ ] Listed?
+1. [ ] Date of Financial Statements
+2. [ ] Presentation Currency
+3. [ ] Basis of Preparation
+4. [ ] Audit Status
+5. [ ] Listed?
 
 # Section 3: Balance Sheet
-[ ] Cash and cash equivalents
-[ ] Total Assets
-[ ] Total Liabilities
-[ ] Equity
-[ ] Total Equity & Liabilities
+1. [ ] Cash and cash equivalents
+2. [ ] Total Assets
+3. [ ] Total Liabilities
+4. [ ] Equity
+5. [ ] Total Equity & Liabilities
 
 # Section 4: Income Statement
-[ ] Other Miscellaneous Expenses
-[ ] Loss for the Year
+1. [ ] Other Miscellaneous Expenses
+2. [ ] Loss for the Year
 
 # Section 5: Notes - Corporate Info
 [ ] Directors’ Names
