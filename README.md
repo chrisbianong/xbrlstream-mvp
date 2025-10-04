@@ -35,3 +35,11 @@ xmlns:ssmt-mfrs="http://xbrl.ssm.com.my/taxonomy/2022-12-31/ssmt-mfrs-cor"
 ```
 
 
+# FINAL STEPS: VALIDATION & SUBMISSION
+1. Click Generate XBRL in the Toolbox.
+2. Review Errors (red) - MUST fix. (and self-healing by AI Agent first attempt and then HITL)
+3. Review Warnings (orange) - optional to fix.
+4. Click "Save XBRL" zipfile.
+5. Upload .zip file to SSM mPortal.
+
+
