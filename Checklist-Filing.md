@@ -33,28 +33,28 @@
 2. [ ] Loss for the Year
 
 # Section 5: Notes - Corporate Info
-[ ] Directors’ Names
-[ ] Directors’ Designation
-[ ] Directors’ Nationality
-[ ] Auditor Name
-[ ] Auditor Reg No
-[ ] Auditor Fee
-[ ] Number of Employees
+1. [ ] Directors’ Names
+2. [ ] Directors’ Designation
+3. [ ] Directors’ Nationality
+4. [ ] Auditor Name
+5. [ ] Auditor Reg No
+6. [ ] Auditor Fee
+7. [ ] Number of Employees
 
 # Section 6: Notes - Accounting Policies
-[ ] Paste “Basis of Preparation” paragraph
+1. [ ] Paste “Basis of Preparation” paragraph
 
 # Section 7: Notes - Related Parties
-[ ] State “None” or disclose
+1. [ ] State “None” or disclose
 
 # Section 8: Disclosure - Directors Report
-[ ] Paste full report
+1. [ ] Paste full report
 
 # Section 9: Disclosure - Auditors Report
-[ ] Paste full report
+1. [ ] Paste full report
 
 # Section 10: Validation & Submission
-[ ] Generate XBRL
-[ ] Fix all red errors
-[ ] Save .zip file
-[ ] Submit via mPortal
+1. [ ] Generate XBRL
+2. [ ] Fix all red errors
+3. [ ] Save .zip file
+4. [ ] Submit via mPortal
