@@ -43,27 +43,29 @@ xmlns:ssmt-mfrs="http://xbrl.ssm.com.my/taxonomy/2022-12-31/ssmt-mfrs-cor"
 5. Upload .zip file to SSM mPortal.
 
 # 🧭 SUMMARY CHECKLIST FOR ANY COMPANY
-##✅ Step 1: Filing Information
+## ✅ Step 1: Filing Information
 
 Company name, reg no, origin, status, type
 Audit status, currency, FYE
 MFRS/MPERS selected
-##✅ Step 2: Financial Statements
+
+## ✅ Step 2: Financial Statements
 
 Balance Sheet: Cash, assets, liabilities, equity
 P&L: Revenue, expenses, profit/loss
 If no data, enter 0 or leave blank (if allowed)
-##✅ Step 3: Notes
+
+## ✅ Step 3: Notes
 
 Corporate info: directors, auditors, employees
 Accounting policies: copy from PDF
 Related parties: state “none” if applicable
 Directors’ Report: copy from PDF
 Auditor’s Report: copy from PDF
-##✅ Step 4: Validation
+
+## ✅ Step 4: Validation
 
 Fix all red errors
 Ignore orange warnings if correct
 Save XBRL .zip
-
 
